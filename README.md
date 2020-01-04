@@ -12,5 +12,5 @@ Made with PHP, JS & SCSS
 
 <b>Screenshot:</b>
 
-![screenshot](https://https://github.com/eebbi/Agency-Onepager/blob/master/screenshot.jpg)
+![screenshot](https://github.com/eebbi/Agency-Onepager/blob/master/screenshot.jpg)
 
